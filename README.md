@@ -2,6 +2,9 @@
 
 Configuration of [ETHZ's Polygon Coverage Planning](https://github.com/ethz-asl/polygon_coverage_planning) package for usage with a Turtlebot. See the original repo for installation and licencing.
 
+Follow the [Turtlebot documentation](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/) for turtlebot dependency installation and configuration.
+
+
 ## Additions
 
 * workflow package
