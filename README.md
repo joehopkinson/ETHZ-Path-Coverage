@@ -4,6 +4,12 @@ Configuration of [ETHZ's Polygon Coverage Planning](https://github.com/ethz-asl/
 
 Follow the [Turtlebot documentation](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/) for turtlebot dependency installation and configuration.
 
+## TODO
+
+* Project Additions
+* Turtlebot navigation parameters
+* list of paths to change
+
 
 ## Project Additions
 
