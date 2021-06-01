@@ -7,6 +7,7 @@ Follow the [Turtlebot documentation](https://emanual.robotis.com/docs/en/platfor
 ## TODO
 
 * Project Additions
+* Move bond nodes to workflow
 * Turtlebot navigation parameters
 * list of paths to change
 
@@ -14,7 +15,7 @@ Follow the [Turtlebot documentation](https://emanual.robotis.com/docs/en/platfor
 ## Project Additions
 
 * workflow package
-  * This package...
+  * This package includes the workflow script for running sequential missions. It also includes the remote and robot bond nodes which initiate the profilers.
 * polygon_coverage_client
   * This package...
 * Modification of polygon_coverage_ros coverage_planner.launch
